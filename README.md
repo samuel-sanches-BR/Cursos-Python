@@ -36,3 +36,29 @@ The course is divided in 7 weeks, with the following contents and exercises:
       * Testable Codes
   * **Exercise list - 3 and Extra exercises**
       * [Exercise 1, 2 and Extra exercise 1, 2](https://github.com/samuel-sanches-BR/Cursos-Python/blob/exercises-coursera-python2/Week3_1_2_E_1_2_class_triangle.py)
+      
+* #### Week 4:
+  * **Sequential Search**
+  * **Computational Complexity**
+  * **Direct Sorting Algorithm**
+  * **Exercise list - 4 and Extra exercises**
+      * [Exercise 1, 2 and Extra exercise 1, 2](https://github.com/samuel-sanches-BR/Cursos-Python/blob/exercises-coursera-python2/Week4_1_2_E_1_2.py)
+
+* #### Week 5:
+  * **Bubble Sort Ordering Algorithm**
+  * **Performance Comparison**
+  * **Improvement of Bubble Sort**
+  * **Binary Search**
+  * **Exercise list - 5 and Extra exercises**
+      * [Exercise 1, 2 and Extra exercise 1](https://github.com/samuel-sanches-BR/Cursos-Python/blob/exercises-coursera-python2/Week5.py)
+      
+* #### Week 6:
+  * **Recursion**
+  * **More about Recursion**
+  * **Exercise list - 6 and Extra exercises**
+      * [Exercise 1, 2, 3 and Extra exercise 1, 2](https://github.com/samuel-sanches-BR/Cursos-Python/blob/exercises-coursera-python2/Week6.py)
+
+* #### Week 7:
+  * **Scrapy - automate extracting information from the Web**
+  * **Games with PyGame**
+ 
