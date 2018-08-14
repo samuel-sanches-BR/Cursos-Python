@@ -1,0 +1,34 @@
+NIM Game
+https://en.wikipedia.org/wiki/Nim
+
+These game, 'n' pieces are initially arranged on a table or board. 2 players play alternately, taking 
+out at least 1 and at most 'm' pieces each. Whoever takes out the last piece wins the game.
+
+There is a strategy to win the game that is very simple: it consists in always leaving multiples of 
+'(m + 1)' pieces to the opposing player.
+
+Goal
+
+You should write a program in the Python language, version 3, that allows a "victim" to play the NIM 
+against the computer. The computer, of course, should follow the winning strategy described above.
+
+Let 'n' be the starting number of pieces and 'm' the maximum number of pieces that can be drawn in a 
+round. To ensure that the computer always wins, you must consider the two possible scenarios for starting 
+the game:
+
+If 'n' is a multiple of '(m + 1)', the computer should be "generous" and invite the player to start the 
+game with the phrase "You start". Otherwise, the computer takes the initiative to start the game.
+
+Once the game is started, the computer's strategy for winning is to always leave a number of pieces that 
+are multiple of '(m + 1)' to the player. If this is not possible, you should take the maximum number of 
+possible parts.
+
+Your job, then, is to implement the Game and make the computer use the winning strategy.
+
+Championships
+
+As we all know, a single round of a game is not enough to define who is the best player. Thus, once the 
+starting function is working, you must create another function called the championship. This new role must 
+carry out three consecutive games of the game and, at the end, show the score of those three matches and 
+indicate the winner of the championship. The scoreboard should be printed like:
+'Score: You ??? X ??? Computer'
