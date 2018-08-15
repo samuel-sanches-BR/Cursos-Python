@@ -1,6 +1,6 @@
 # Introdução à Ciência da Computação com Python Parte 2 - Coursera - https://goo.gl/CgVUJb
 
-<!-- ### **[Link to my certificate.](https://www.coursera.org/account/accomplishments/records/26EQJJU32AQ4)** Completed at July 18, 2018. -->
+### *** **[Certificate.](https://www.coursera.org/account/accomplishments/records/KCKPHCSMLQKS)** Completed at August 14, 2018.
 
 Here are the python exercises codes that I made to finish the course.
 
