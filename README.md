@@ -1,4 +1,5 @@
-# Python Fundamentos para Análise de Dados - Data Science Academy - https://goo.gl/UWVsV3
+# Python Fundamentos para Análise de Dados 
+# Data Science Academy - https://goo.gl/UWVsV3
 
 <!-- ### **[Certificate.](https://www.coursera.org/account/accomplishments/records/KCKPHCSMLQKS)** Completed at ? ?, 2018. -->
 
