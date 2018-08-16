@@ -2,7 +2,7 @@
 ------------------------------------------------------------------------
 
 ## [Python Fundamentos para Análise de Dados]() 
-* ### [Data Science Academy guide](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos)
+* ### [Data Science Academy guide](https://goo.gl/UWVsV3)
 <!-- * **[Certificate.](https://www.coursera.org/account/accomplishments/records/26EQJJU32AQ4)** Completed at ? ?, 2018.  -->
 ------------------------------------------------------------------------
 
