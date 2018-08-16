@@ -1,7 +1,7 @@
 # **Python**
 ------------------------------------------------------------------------
 
-## [Python Fundamentos para Análise de Dados](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPython/README.md) 
+## [Python Fundamentos para Análise de Dados](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPython/README.md) **In progress **
 * ### [Data Science Academy guide](https://goo.gl/UWVsV3)
 <!-- * **[Certificate.](https://www.coursera.org/account/accomplishments/records/26EQJJU32AQ4)** Completed at ? ?, 2018.  -->
 ------------------------------------------------------------------------
