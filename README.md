@@ -12,8 +12,8 @@ The course is divided in 15 classes, with the following contents and exercises:
   
 * #### Class 2:
   * **Variables, Types and Data Structure**
-    * **[Exercises]()**
-    * **[Lab 01]()**
+    * **[Exercises](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/DSA-Python-Cap02-Exercicios.ipynb)**
+    * **[Lab 01](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/game.py)**
      
 <!-- * #### Class 3:
   * **Solved Exercise: Matrix Sum**
