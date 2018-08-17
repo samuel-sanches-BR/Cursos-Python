@@ -22,6 +22,9 @@ The course is divided in 15 classes, with the following contents and exercises:
     * **[Exercises 2: Functions](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/DSA-Python-Cap03-Exercicios-Funcoes.ipynb)**
     * **[Lab 02](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/calculadora_v1.py)**
  
+* #### Class 4:
+  * **Handling Files, Modules, Packages and Built-in Functions**
+    * **[Exercises](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/DSA-Python-Cap04-ExercicioS.ipynb)**
       
 <!-- * #### Class 3:
   * **Solved Exercise: Matrix Sum**
