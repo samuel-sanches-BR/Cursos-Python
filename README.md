@@ -28,14 +28,22 @@ The course is divided in 15 classes, with the following contents and exercises:
       
 * #### Class 5:
   * **Object-Oriented Programming**
-    * **[Exercises 1: OOP](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/DSA-Python-Cap05-Exercicios.ipynb)**
+    * **[Exercises: OOP](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/DSA-Python-Cap05-Exercicios.ipynb)**
     * **[Lab 03](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/forca.py)**
  
 * #### Class 6:
   * **Manipulating Database in Python: Using SQLite (RDBMS) and MongoDB (NoSQL)**
-  * **Mini-Project 1: Stream Twitter Data with MondoDB, Pandas and Scikit-Learn**
+  * **Mini-Project 1: Stream Twitter Data with MongoDB, Pandas and Scikit-Learn**
     * **[Jupyter Notebook](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/DSA-Python-Cap06-09-Stream%20de%20Dados%20do%20Twitter%20com%20MongoDB%2C%20Pandas%20e%20Scikit%20Learn.ipynb)**
       
+* #### Class 7:
+  * **Exercises**
+    * **[Jupyter Notebook 1](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/missao1.ipynb)**
+    * **[Jupyter Notebook 2](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/missao2.ipynb)**
+    * **[Jupyter Notebook 3](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/missao3.ipynb)**
+    * **[Jupyter Notebook 4](https://github.com/samuel-sanches-BR/Cursos-Python/blob/dsa-fundPythonExercises/missao4.ipynb)**
+    * **[Jupyter Notebook 5]()**
+    
 <!-- * #### Class 3:
   * **Solved Exercise: Matrix Sum**
   * **Solved Exercise: Matrix Multiplication**
